@@ -39,7 +39,7 @@ This repository contains an interactive **Excel dashboard** designed to visualiz
 ---
 
 ## 🔧 **SQL Integration**  
-The underlying data insights powering this dashboard were derived using **SQL queries**, which were created by **ME**. These SQL queries will be available in a separate repository: [Pizza Sales SQL Analysis](https://github.com/Pouria-Samadi/Pizza_Sales_SQL_Analysis).
+The underlying data insights powering this dashboard were derived using **SQL queries**, which were created by **ME**. These SQL queries will be available in a separate repository: [Pizza Sales SQL Analysis](https://github.com/Pouria-Samadi/Pizza-Sales-SQL-Analysis).
 
 ---
 
